@@ -1,9 +1,9 @@
 name: Generate Snake
 
 on:
-  schedule: # بيشغل الجراف كل يوم مرة
-    - cron: "0 0 * * *"
-  workflow_dispatch: # تقدر تشغله يدوي
+  schedule:
+    - cron: "0 0 * * *" # يشتغل كل يوم مرة
+  workflow_dispatch:
   push:
     branches:
       - main
