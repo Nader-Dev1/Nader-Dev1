@@ -46,5 +46,5 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/Nader-Dev1/Nader-Dev1/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+<img src="https://github.com/Nader-Dev1/Nader-Dev1/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
 </p>
